@@ -1,2 +1,2 @@
 # MMI_analisi24
-Useful material for Analysis part of the course 09BQXOA - Metodi Matematici per l’Ingegneria A.A. 2023/2024
+Useful material (in Italian) for the Analysis part of the course Metodi Matematici per l’Ingegneria (09BQXOA, A.A. 2023/2024)

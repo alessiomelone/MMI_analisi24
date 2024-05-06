@@ -9,16 +9,16 @@ If you encounter any issues attending a lecture on its scheduled date, you are w
 
 | Date       | Topic                  | Tutor              | Room |
 |------------|----------------------  |--------------------|------|
-| 29/04/2024 10-11:30| Distribuzioni          |  Alessio Melone    | 29C  |
-| 06/05/2024 10-11:30| Distribuzioni          | Alessio Melone     | 29C  |
-| 20/05/2024 10-11:30| Trasformata di Fourier | Alessio Melone     | 29C  |
-| 27/05/2024 10-11:30| Trasformata di Fourier | Alessio Melone     | 29C  |
-| 03/06/2024 10-11:30| Trasformata di Laplace | Alessio Melone     | 29C  |
-| 10/06/2024 10-11:30| Trasformata di Laplace | Alessio Melone     | 29C  |
+| 29/04/2024 10-11:30| Distribuzioni          |  Alessio Melone    | 29B  |
+| 06/05/2024 10-11:30| Distribuzioni          | Alessio Melone     | 29B  |
+| 20/05/2024 10-11:30| Trasformata di Fourier | Alessio Melone     | 29B  |
+| 27/05/2024 10-11:30| Trasformata di Fourier | Alessio Melone     | 29B  |
+| 03/06/2024 10-11:30| Trasformata di Laplace | Alessio Melone     | 29B  |
+| 10/06/2024 10-11:30| Trasformata di Laplace | Alessio Melone     | 29B  |
 
 | Date       | Topic                   | Tutor              | Room |
 |------------|-------------------------|--------------------|------|
-| 06/05/2024 8:30-10 | Distributions (ENG)     |  Nunzio Licalzi    |  4M  |
+| 06/05/2024 8:30-10 | Distributions (ENG)    |  Nunzio Licalzi    |  4M  |
 | 13/05/2024 8:30-10| Fourier Transform (ENG) |  Nunzio Licalzi    |  4M  | 
 | 20/05/2024 8:30-10| Laplace Transform (ENG) |  Nunzio Licalzi    |  4M  |
 | 27/05/2024 8:30-10| Distribuzioni           |  Nunzio Licalzi    |  4M  |

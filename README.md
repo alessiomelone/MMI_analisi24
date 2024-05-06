@@ -36,5 +36,5 @@ If you would like to add to this repository, please fork the repo and submit a p
 For more information or if you encounter any issues, please open an issue on GitHub or contact the repository admin at alessio.melone@studenti.polito.it or the tutor nunzio.licalzi@studenti.polito.it .
 
 ## Notes
-Only part of the files stored here are created by us.
+Only part of the files stored here are created by us, it's copyright belongs to the rightful owner/s.
 
